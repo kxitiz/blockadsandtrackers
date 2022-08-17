@@ -1,3 +1,4 @@
+api.spotify.com
 spclient.wg.spotify.com
 apresolve.spotify.com
 dealer.spotify.com
