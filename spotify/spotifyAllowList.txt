@@ -12,3 +12,4 @@ accounts.scdn.co
 audio-akp-spotify-com.akamaized.net
 audio4-akp-spotify-com.akamaized.net
 audio-fa.scdn.co
+api-partner.spotify.com
