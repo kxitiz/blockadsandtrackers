@@ -4,4 +4,3 @@
 ||sohu.com^
 ||taobao.com^
 ||baidu.com^
-||miwifi.com^
