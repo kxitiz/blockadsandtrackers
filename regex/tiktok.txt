@@ -5,3 +5,6 @@
 (^|\.)tiktokv.com$
 (^|\.)byteoversea.com$
 (^|\.)tiktok.com$
+||akamaized.net^$important
+||akamai.net^$important
+||tiktokcdn.com^$important
