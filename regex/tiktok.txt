@@ -1,0 +1,7 @@
+(^|\.)musical\.ly$
+(^|\.)muscdn\.com$
+(^|\.)nas13\.man\.opaltelecom\.net
+(^|\.)deploy\.static\.akamaitechnologies\.com$
+(^|\.)tiktokv.com$
+(^|\.)byteoversea.com$
+(^|\.)tiktok.com$
