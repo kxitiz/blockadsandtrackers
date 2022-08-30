@@ -7,7 +7,7 @@ a.adk2x.com
 a.admob.com
 ab.tune.com
 ac1.vip.sc9.admob.com
-ac208.sc9.admob.com
+ac208.sc9.admob.coms
 academy.tune.com
 accounts.spotify.com
 lb-wg.dual-gslb.spotify.com
@@ -19,7 +19,6 @@ ad.atdmt.com
 ad.doubleclick.net
 adclick.g.doublecklick.
 adclick.g.doublecklick.net
-ade.googlesyndication.com
 adeventtracker.spotify.com
 adeventtracker.spotify.com
 adgrx.moatads.com
@@ -59,8 +58,6 @@ ads.flurry.com
 ads.pubmatic.com
 ads.spotify.com
 adserver.adtechus.com
-adservice.google.co.uk
-adservice.google.com
 adstudio-assets.scdn.co
 adstudio-assets.scdn.co
 adstudio.spotify.com
@@ -73,7 +70,6 @@ alien.dual-gslb.spotify.com
 alien.spotify.net
 ams1-ib.adnxs.com
 analytics.admob.com
-analytics.google.com
 analytics.spotify.
 analytics.spotify.com
 analytics.spotify.com
@@ -373,13 +369,6 @@ gew-dealer.spotify.com
 gew-spclient.spotify.com 
 global-dealer-ssl.spotify.com 
 go.scdn.co 
-googleadapis.l.google.com
-googleads4.g.doubleclick.net
-googleads.g.doubleclick.
-googleads.g.doubleclick.net
-googleadservices.com
-googlehosted.l.googleusercontent.com
-googletagservices.com
 groups.spotify.com 
 gtssl2-ocsp.geotrust.
 gtssl2-ocsp.geotrust.com
@@ -571,11 +560,8 @@ origin-play.spotify.com
 p1.vip.sc9.admob.com
 p.admob.com
 p.scdn.co 
-pagead2.googlesyndication.
-pagead2.googlesyndication.com
 pagead46.l.doubleclick.
 pagead46.l.doubleclick.net
-pagead-googlehosted.l.google.com
 pagead.l.doubleclick.net
 paix1.sc1.admob.com
 partner-provisioning.spotify.com 
@@ -583,8 +569,6 @@ partner-service-testing.spotify.com
 partner-service-testing.spotify.com 
 partner-service.spotify.com
 partner-service.spotify.com 
-partner.googleadservices.
-partner.googleadservices.com
 partnerad.l.doubleclick.net
 partnerportal.spotify.com 
 partners.spotify.com 
@@ -641,7 +625,6 @@ rosevear.ash.spotify.com
 rp-lb-766892831.us-east-1.elb.amazonaws.com
 rt-vrrp-pub.ash1.spotify.com 
 rt-vrrp-pub.ash.spotify.com 
-s0-2mdn-net.l.google.com
 s0.2mdn.
 s0.2mdn.net
 s-jsonp.moatads.com
@@ -744,8 +727,6 @@ terraform-modules-test.intercom.io
 thisis-images.scdn.co 
 tic1.vip.sc9.admob.com
 timecapsule.spotify.com 
-tpc.googlesyndication.
-tpc.googlesyndication.com
 track.leanlab.co
 tracking.admobsphere.com
 tribpubdfp745347008913.s.moatpixel.com
@@ -782,8 +763,6 @@ v.jwpcdn.com
 vast.moatads.com
 vastx.moatads.com
 via.intercom.io
-video-ad-stats.googlesyndication.
-video-ad-stats.googlesyndication.com
 video-akp-cdn-spotify-com.akamaized.net
 video-fa-b.cdn.spotify.com
 video-fa-b.cdn.spotify.com 
@@ -825,10 +804,6 @@ www.admob.com
 www.admob.com.akadns.net
 www.comscore.com
 www.cp.tune.com
-www.googleadservices.
-www.googleadservices.com
-www.googletagservices.
-www.googletagservices.com
 www.intercom.io
 www.mixpanel.com
 www.moatads.com
@@ -1358,7 +1333,6 @@ a1843.g.akamai.net
 a50.g2.akamai.net
 ad.doubleclick.net
 adclick.g.doublecklick.net
-ade.googlesyndication.com
 adnxs.comadplexmedia.adk2x.com
 ads-west-colo.adsymptotic.com
 ads.flurry.com
@@ -1374,7 +1348,6 @@ bs.serving-sys.com
 bsams.eyeblaster.akadns.net
 combine.urbanairship.com
 cdn.tellwrite.com
-cloudconfig.googleapis.com
 content.bitsontherun.com
 core.insightexpressai.com
 cs126.wpc.edgecastcdn.net
@@ -1383,7 +1356,6 @@ cs283.wpc.teliasoneracdn.net
 cs934.wac.thetacdn.net
 d2gi7ultltnc2u.cloudfront.net
 d3rt1990lpmkn.cloudfront.net
-digitalassetlinks.googleapis.c
 doubleclick.net
 ds.serving-sys.com
 e7876.dscg.akamaiedge.net
@@ -1392,8 +1364,6 @@ eu-gmtdmp.gd1.mookie1.com
 gads.pubmatic.com
 gads22000.pubmatic.com
 gcdn.2mdn.net
-googleadservices.com
-googleadapis.l.google.com
 gtssl2-ocsp.geotrust.com
 ib.adnxs.com
 infoevent.startappservice.com
@@ -1404,19 +1374,14 @@ media-match.com
 media-router-flurry7.prod.medi
 na.gmtdmp.com
 omaze.com
-pagead-googlehosted.l.google.c
 pagead.l.doubleclick.net
-pagead2.googlesyndication.com
 pagead46.l.doubleclick.net
-partner.googleadservices.com
-people-pa.googleapis.com # You
 platform-lookaside.fbsbx.com #
 r5---sn-5hnednlr.gvt1.com
 redirector.gvt1.com
 rp-lb-766892831.us-east-1.elb.
 rts.mobula.sdk.duapps.com
 s0.2mdn.net
-s0-2mdn-net.l.google.com
 sb.scorecardresearch.com
 sb.voicefive.com
 sdkm.w.inmobi.com
@@ -1426,13 +1391,9 @@ showads33000.pubmatic.com
 skypicker-984.firebaseio.com
 skypicker-api.infinario.com
 sla-intl.trustlook.com
-tpc.googlesyndication.com
 udm.scorecardresearch.com
 v.jwpcdn.com
-video-ad-stats.googlesyndicati
 wsback-get-config.presage.io
-www.googleadservices.com
-www.googletagservices.com
 www.interia.pl
 www.omaze.com
 z.moatads.com
