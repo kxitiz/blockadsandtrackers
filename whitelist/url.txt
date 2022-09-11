@@ -1,0 +1,14 @@
+#facebook
+graph.facebook.com^$important
+
+#spotify
+api-partner.spotify.com^$important
+
+#google
+lh3.googleusercontent.com
+
+#linkedin
+dms.licdn.com
+media.licdn.com
+media-exp1.licdn.com
+static-exp1.licdn.com
