@@ -1,8 +1,8 @@
 #facebook
-graph.facebook.com^$important
+graph.facebook.com
 
 #spotify
-api-partner.spotify.com^$important
+api-partner.spotify.com
 
 #google
 lh3.googleusercontent.com
