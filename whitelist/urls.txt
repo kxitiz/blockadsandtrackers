@@ -1,24 +1,24 @@
-#facebook
-graph.facebook.com
+! Facebook
+||graph.facebook.com^
 @@||b-graph.facebook.com^$important
 
-#youtubevanced
-@@||revanced.net
+! YouTube Vanced
+@@||revanced.net^
 
-#spotify
-api-partner.spotify.com
+! Spotify
+||api-partner.spotify.com^
 
-#google
-lh3.googleusercontent.com
+! Google
+||lh3.googleusercontent.com^
 
-#linkedin
-dms.licdn.com
-media.licdn.com
-media-exp1.licdn.com
-static-exp1.licdn.com
+! LinkedIn
+||dms.licdn.com^
+||media.licdn.com^
+||media-exp1.licdn.com^
+||static-exp1.licdn.com^
 
-##Linux Package
+! Linux Package
 @@||openh264.org^
 
-##Geeksforgeeks
+! Geeksforgeeks
 @@||www.geeksforgeeks.org^
